@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react_hook_timer/static/css/main.7b603ca4.chunk.css",
-    "main.js": "/react_hook_timer/static/js/main.64cda612.chunk.js",
-    "main.js.map": "/react_hook_timer/static/js/main.64cda612.chunk.js.map",
-    "runtime-main.js": "/react_hook_timer/static/js/runtime-main.da2f2046.js",
-    "runtime-main.js.map": "/react_hook_timer/static/js/runtime-main.da2f2046.js.map",
-    "static/js/2.15963d88.chunk.js": "/react_hook_timer/static/js/2.15963d88.chunk.js",
-    "static/js/2.15963d88.chunk.js.map": "/react_hook_timer/static/js/2.15963d88.chunk.js.map",
-    "static/js/3.cf81903c.chunk.js": "/react_hook_timer/static/js/3.cf81903c.chunk.js",
-    "static/js/3.cf81903c.chunk.js.map": "/react_hook_timer/static/js/3.cf81903c.chunk.js.map",
-    "index.html": "/react_hook_timer/index.html",
-    "static/css/main.7b603ca4.chunk.css.map": "/react_hook_timer/static/css/main.7b603ca4.chunk.css.map",
-    "static/js/2.15963d88.chunk.js.LICENSE.txt": "/react_hook_timer/static/js/2.15963d88.chunk.js.LICENSE.txt"
+    "main.css": "/reactjs_hook_timer/static/css/main.7b603ca4.chunk.css",
+    "main.js": "/reactjs_hook_timer/static/js/main.64cda612.chunk.js",
+    "main.js.map": "/reactjs_hook_timer/static/js/main.64cda612.chunk.js.map",
+    "runtime-main.js": "/reactjs_hook_timer/static/js/runtime-main.b5b79edf.js",
+    "runtime-main.js.map": "/reactjs_hook_timer/static/js/runtime-main.b5b79edf.js.map",
+    "static/js/2.15963d88.chunk.js": "/reactjs_hook_timer/static/js/2.15963d88.chunk.js",
+    "static/js/2.15963d88.chunk.js.map": "/reactjs_hook_timer/static/js/2.15963d88.chunk.js.map",
+    "static/js/3.cf81903c.chunk.js": "/reactjs_hook_timer/static/js/3.cf81903c.chunk.js",
+    "static/js/3.cf81903c.chunk.js.map": "/reactjs_hook_timer/static/js/3.cf81903c.chunk.js.map",
+    "index.html": "/reactjs_hook_timer/index.html",
+    "static/css/main.7b603ca4.chunk.css.map": "/reactjs_hook_timer/static/css/main.7b603ca4.chunk.css.map",
+    "static/js/2.15963d88.chunk.js.LICENSE.txt": "/reactjs_hook_timer/static/js/2.15963d88.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.da2f2046.js",
+    "static/js/runtime-main.b5b79edf.js",
     "static/js/2.15963d88.chunk.js",
     "static/css/main.7b603ca4.chunk.css",
     "static/js/main.64cda612.chunk.js"
